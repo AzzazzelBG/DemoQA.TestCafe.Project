@@ -1,0 +1,15 @@
+{
+  "name": "demoqa.testcafe.project",
+  "version": "1.0.0",
+  "description": "Testing framework with TestCafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome fixtures/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^3.6.0",
+    "typescript": "^5.4.5"
+  }
+}

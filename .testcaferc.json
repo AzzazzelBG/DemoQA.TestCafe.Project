@@ -1,0 +1,7 @@
+{
+    "src": ["fixtures/"],
+    "browsers": ["chrome"],
+    "baseurl": "https://demoqa.com/",
+    "concurrency": 3,
+    "skipJsErrors": true
+}
