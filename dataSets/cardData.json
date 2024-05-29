@@ -1,0 +1,26 @@
+[
+    {
+        "cardName": "Elements",
+        "urlExpectedText": "elements"
+    },
+    {
+        "cardName": "Forms",
+        "urlExpectedText": "forms"
+    },
+    {
+        "cardName": "Alerts, Frame & Windows",
+        "urlExpectedText": "alertsWindows"
+    },
+    {
+        "cardName": "Widgets",
+        "urlExpectedText": "widgets"
+    },
+    {
+        "cardName": "Interactions",
+        "urlExpectedText": "interaction"
+    },
+    {
+        "cardName": "Book Store Application",
+        "urlExpectedText": "books"
+    }
+]
