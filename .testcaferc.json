@@ -2,7 +2,7 @@
     "src": ["fixtures/"],
     "browsers": ["chrome"],
     "baseUrl": "https://demoqa.com/",
-    "concurrency": 3,
+    "concurrency": 2,
     "skipJsErrors": true,
     "speed": 0.8
 }
