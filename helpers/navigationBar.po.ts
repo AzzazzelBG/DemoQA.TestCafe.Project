@@ -1,6 +1,6 @@
 import { Selector } from "testcafe";
 
-type MainSections = "Elements" | "Forms" | "Alerts, Frame & Windows" | "Widgets" | "Interactions" | "Interactions";
+type MainSections = "Elements" | "Forms" | "Alerts, Frame & Windows" | "Widgets" | "Interactions" | "Book Store Application";
 
 export class NavigationPageObject {
 
